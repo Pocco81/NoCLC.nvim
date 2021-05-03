@@ -23,7 +23,7 @@ endif
 
 
 " main {{{
-execute "lua require'no-clc.main'.main()"
+lua require('no-clc.main').main()
 " }}}
 
 
