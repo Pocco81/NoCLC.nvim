@@ -224,3 +224,8 @@ For more convoluted language, see the [LICENSE file](https://github.com/kdav5758
 **Low Priority**
 - Maybe include default mappings (key-bindings)?
 
+
+<hr>
+<p align="center">
+	Enjoy!
+</p>
