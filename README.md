@@ -1,4 +1,4 @@
-# 🥕 NoCLC
+# 🥕 NoCLC.nvim
 
 
 
