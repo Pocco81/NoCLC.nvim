@@ -3,7 +3,7 @@
 
 
 <p align="center">
-	Simple NeoVim plugin for disabling/enabling the cursor-line/column when entering a window.
+	Simple NeoVim plugin for disabling the cursor-line/column in unused windows/buffers.
 </p>
 
 <p align="center">
