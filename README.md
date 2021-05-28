@@ -7,34 +7,34 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/kdav5758/NoCLC.nvim"
+    <a href="https://github.com/Pocco81/NoCLC.nvim"
         ><img
-            src="https://img.shields.io/github/repo-size/kdav5758/NoCLC.nvim"
+            src="https://img.shields.io/github/repo-size/Pocco81/NoCLC.nvim"
             alt="GitHub repository size"
     /></a>
-    <a href="https://github.com/kdav5758/NoCLC.nvim/issues"
+    <a href="https://github.com/Pocco81/NoCLC.nvim/issues"
         ><img
-            src="https://img.shields.io/github/issues-raw/kdav5758/NoCLC.nvim"
+            src="https://img.shields.io/github/issues-raw/Pocco81/NoCLC.nvim"
             alt="Issues"
     /></a>
-    <a href="https://github.com/kdav5758/NoCLC.nvim/blob/main/LICENSE"
+    <a href="https://github.com/Pocco81/NoCLC.nvim/blob/main/LICENSE"
         ><img
-            src="https://img.shields.io/github/license/kdav5758/NoCLC.nvim"
+            src="https://img.shields.io/github/license/Pocco81/NoCLC.nvim"
             alt="License"
     /><br />
-    <a href="https://saythanks.io/to/kdav5758%40gmail.com"
+    <a href="https://saythanks.io/to/Pocco81%40gmail.com"
         ><img
             src="https://img.shields.io/badge/say-thanks-modal.svg"
             alt="Say thanks"/></a
-    ></a>    <a href="https://github.com/kdav5758/whid.nvim/commits/main"
-    <a href="https://github.com/kdav5758/NoCLC.nvim/commits/main"
+    ></a>    <a href="https://github.com/Pocco81/whid.nvim/commits/main"
+    <a href="https://github.com/Pocco81/NoCLC.nvim/commits/main"
 		><img
-			src="https://img.shields.io/github/last-commit/kdav5758/NoCLC.nvim"
+			src="https://img.shields.io/github/last-commit/Pocco81/NoCLC.nvim"
 			alt="Latest commit"
     /></a>
-    <a href="https://github.com/kdav5758/NoCLC.nvim/stargazers"
+    <a href="https://github.com/Pocco81/NoCLC.nvim/stargazers"
         ><img
-            src="https://img.shields.io/github/stars/kdav5758/NoCLC.nvim"
+            src="https://img.shields.io/github/stars/Pocco81/NoCLC.nvim"
             alt="Repository's starts"
     /></a>
 </p>
@@ -89,23 +89,23 @@ You can use your favorite plugin manager for this. Here are some examples with t
 ### Vim-plug
 
 ```lua
-Plug 'kdav5758/NoCLC.nvim'
+Plug 'Pocco81/NoCLC.nvim'
 ```
 ### Packer.nvim
 
 ```lua
-use "kdav5758/NoCLC.nvim"
+use "Pocco81/NoCLC.nvim"
 ```
 
 ### Vundle
 
 ```lua
-Plugin 'kdav5758/NoCLC.nvim'
+Plugin 'Pocco81/NoCLC.nvim'
 ```
 
 ### NeoBundle
 ```lua
-NeoBundleFetch 'kdav5758/NoCLC.nvim'
+NeoBundleFetch 'Pocco81/NoCLC.nvim'
 ```
 
 ## Setup (configuration)
@@ -208,13 +208,13 @@ NoCLC.nvim is released under the GPL v3.0 license. It grants open-source permiss
 - The right to redistribute copies of the software
 - The right to modify and distribute copies of new versions of the software
 
-For more convoluted language, see the [LICENSE file](https://github.com/kdav5758/NoCLC.nvim/blob/dev/LICENSE).
+For more convoluted language, see the [LICENSE file](https://github.com/Pocco81/NoCLC.nvim/blob/dev/LICENSE).
 
 # ✋ Do you...
 
-- Have a question? Start a [discussion](https://github.com/kdav5758/NoCLC.nvim/discussions).
-- Have a problem? Make an [issue](https://github.com/kdav5758/NoCLC.nvim/issues). Remember to include an appropriate label.
-- Hava an idea? Create a [pull request](https://github.com/kdav5758/NoCLC.nvim/pulls).
+- Have a question? Start a [discussion](https://github.com/Pocco81/NoCLC.nvim/discussions).
+- Have a problem? Make an [issue](https://github.com/Pocco81/NoCLC.nvim/issues). Remember to include an appropriate label.
+- Hava an idea? Create a [pull request](https://github.com/Pocco81/NoCLC.nvim/pulls).
 
 # 📋 TO-DO
 
