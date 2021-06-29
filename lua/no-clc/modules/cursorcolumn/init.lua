@@ -11,7 +11,7 @@ function M.main(state)
 
 		-- activate/deactivate it when entering/exiting window/buffer
 		vim.api.nvim_exec([[
-			augroup ActiveWindowBufferCursorcolumn
+			augroup noclc_active_window_buffer_cursorcolumn
 				autocmd!
 				autocmd WinEnter * setlocal cursorcolumn
 				autocmd BufEnter * setlocal cursorcolumn
